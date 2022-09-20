@@ -1,6 +1,6 @@
 # E-commerce
 
-Projeto de E-commerce
+Desafio 1 - Projeto de E-commerce
 
 Narrativa - Produto
 Os produtos são vendidos por uma única plataforma online. Contudo, estes podem ter vendedores distintos (terceiros)
